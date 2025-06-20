@@ -21,9 +21,10 @@ This is where we include some basic lines of codeor queries or DAX expressions u
 ``` SQL
 SELECT A,B,C
 WHERE A>45
+```
 
-##Analysis
+## Analysis
 Attach image here
 
-
+![PIE CHART](https://github.com/user-attachments/assets/928c2408-f7a9-4eca-a3c1-3eac5006e881)
 
