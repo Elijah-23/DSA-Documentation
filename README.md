@@ -21,3 +21,9 @@ This is where we include some basic lines of codeor queries or DAX expressions u
 ``` SQL
 SELECT A,B,C
 WHERE A>45
+
+##Analysis
+Attach image here
+
+
+
