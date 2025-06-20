@@ -28,3 +28,7 @@ Attach image here
 
 ![PIE CHART](https://github.com/user-attachments/assets/928c2408-f7a9-4eca-a3c1-3eac5006e881)
 
+
+![PIE CHART](https://github.com/user-attachments/assets/dbd6eebb-3368-4f0c-bded-2650348f2926)
+
+
